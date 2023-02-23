@@ -20,8 +20,16 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |       Muss          |   Qualität   | Als ein Benutzer möchte ich meine Daten, wie Gewicht, Grösse, Alter etc., eingeben, damit ich präzise Vorschläge erhalte. |
+|  2    |       Muss          |   Funktional   |Als ein Benutzer möchte ich meine Körperlichen Ziele angeben, damit ich Unterstützung bei genau diesen Zielen bekomme.|
+|3|Muss|Funktion|Als ein Computer möchte ich die Angaben und Daten des Benutzers im Hintergrund speichern, damit ich diese für Berechnungen benutzen kann.|
+|4|Muss |Funktion |Als ein Computer möchte ich dem Benutzer eine Ansicht bieten, damit er seine Ziele einfach und Benutzerfreundlich auswählen kann.|
+|5|Muss |Rand|Als ein Benutzer möchte ich den Kalorienmanager nicht in der Konsole, sondern auf einer übersichtlichen Benutzerfläche nutzen, damit alles einfach und schnell geht. |
+|6 |Muss|Funktion|Als ein Computer möchte ich dem Benutzer jederzeit die Möglichkeit bieten, neue Aktivitäten einzutragen, damit er einen möglichst genauen Überblick geniesst. |
+|7|Muss |Qualität |Als ein Computer möchte ich eine Grafik erstellen, damit der Benutzer eine Visuelle Zusammenfassung bekommt. |
+|8|Muss |Funktion |Als Computer möchte ich die wichtigen Daten im Hintergrund so abspeichern, damit auch nach Schliessen des Kalorienmanagers, alle Daten bestehen bleiben.|
+|9|Muss |Funktion|Als ein Computer möchte ich den Kalorienverbrauch mit schon bestehenden Statistiken berechnen, damit der Benutzer keine verfälschten Angaben bekommt.|
+|10 |Kann |Qualität | Als Benutzer möchte ich das Design der Kalorienmanagers anpassen (z.B. Dark-Mode), damit auch meine Augen etwas zu geniessen haben. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
