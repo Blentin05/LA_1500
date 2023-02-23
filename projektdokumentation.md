@@ -44,7 +44,10 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![Abfrage von Daten](https://user-images.githubusercontent.com/111046337/220882427-52ef5f22-b932-4acc-a933-c9e1dd2a9678.png)
+![Kalorienseite](https://user-images.githubusercontent.com/111046337/220882448-b2d0cbe1-d126-49ec-85ae-4a1d54208b8c.png)
+![Workoutseite](https://user-images.githubusercontent.com/111046337/220882461-303d20db-ac30-4373-be36-e992b3269f04.png)
+
 
 ## 2 Planen
 
