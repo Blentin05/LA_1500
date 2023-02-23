@@ -14,7 +14,7 @@ Tuberose Bischof, Hurschler, Tosuni
 
 ### 1.1 Ihr Projekt
 
-Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, die täglichen Mahlzeiten und Snacks aufzuzeichnen, um zu sehen, wie viele Kalorien, Fette und Proteine eingenommen werden. Man kann ausserdem Workouts aufzeichnen und sehen, wie viele Kalorien verbrennt worden sind.
+Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, die täglichen Mahlzeiten und Snacks aufzuzeichnen, um zu sehen, wie viele Kalorien, Fette und Proteine eingenommen werden. Man kann ausserdem Workouts aufzeichnen und sehen, wie viele Kalorien verbrennt worden sind. Wir wollen lernen wie man Statistiken und Graphen darstellt.
 
 ### 1.2 User Stories
 
