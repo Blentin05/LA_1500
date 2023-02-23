@@ -2,7 +2,8 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-Tuberose Bischof, Hurschler, Tosuni
+- Gruppe: Tuberose 
+- Mitglieder: Bischof, Hurschler, Tosuni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
