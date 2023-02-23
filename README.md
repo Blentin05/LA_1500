@@ -1,6 +1,6 @@
-## LA_1500.md
+# LA_1500.md
 
-- # Kalorien Manager
+- #3 Kalorien Manager
 - Benutzer kann seine Daten angeben
 - Benutzer kann entscheiden zwischen Abnehmen und Zunehmen
 - Die App gibt Vorschläge um die Ziele zu erreichen
