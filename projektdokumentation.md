@@ -62,7 +62,7 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
-
+![Use case diagram](https://user-images.githubusercontent.com/111046337/222399133-2b511abd-efc5-450d-98de-21618e4e328c.png)
 ![Abfrage von Daten](https://user-images.githubusercontent.com/111046337/220882427-52ef5f22-b932-4acc-a933-c9e1dd2a9678.png)
 ![Kalorienseite](https://user-images.githubusercontent.com/111046337/220882448-b2d0cbe1-d126-49ec-85ae-4a1d54208b8c.png)
 ![Workoutseite](https://user-images.githubusercontent.com/111046337/220882461-303d20db-ac30-4373-be36-e992b3269f04.png)
