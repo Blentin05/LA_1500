@@ -43,22 +43,8 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Die Applikation startet auf und ein Formular erscheint mit Abfrage von biometrischen Daten.  | Das Gewicht, Grösse und Alter von Benutzer   | Erfolgreiche Eingabe |
-| 1.2 |  Das Formular mit der Abfrage von biometrischen Daten startet auf.           | 300 cm   |    Geben sie ihr echtes Grösse ein.   |
-| 1.3 |  Das Formular mit der Abfrage von biometrischen Daten startet auf.           | 400 kg   |    Geben sie ihr echtes Gewicht ein.   |
-| 2.1 |  Im gleichen Formular sollte eine Auswahl des körperlichen Zieles vorhanden sein.        | Abnehmen  |  Auf der Auswahl steht Abnehmen.  |
-| 2.2 |  Im gleichen Formular sollte eine Auswahl des körperlichen Zieles vorhanden sein.        | Zunehmen |  Auf der Auswahl steht Zunehmen.  |
-| 3.0 |  Im gleichen Formular sollte eine Auswahl des körperlichen Zieles vorhanden sein.        | Speichern | Angaben wurden erfolgreich gespeichert. |
-| 3.0 |  Im gleichen Formular sollte eine Auswahl des körperlichen Zieles vorhanden sein.        | Speichern | Angaben wurden erfolgreich gespeichert. |
-| 4.0 |  Das Programm sollte auf einer Benutzeroberfläche laufen     | Soll erscheinen, nachdem auf den Speichern Button gedrückt wurde | Schön gestaltete Seite |
-| 5.0 |  Benutzerfreundlich gestaltet Seite startet auf mit dem Kalorienmanager als erst Ansicht        | Soll erscheinen, nachdem auf den Speichern Button gedrückt wurde | Schön gestaltete Seite |
-| 5.0 |  Benutzerfreundlich gestaltet Seite startet auf mit dem Kalorienmanager als erst Ansicht        | Soll erscheinen, nachdem auf den Speichern Button gedrückt wurde | Schön gestaltete Seite |
-| 6.0 |  Ein Button sollte zu einer Seite führen, in welcher man seine Aktivitäten einschreiben kann und die verbrauchten Kalorien     | soll erscheinen, nachdem auf den Aktivität-Button gedrückt wurde | Ausgabe der Seite mit den Aktivitäten|
-| 7.0 |  In jeder externen Seite sollte ein Button sein, welches zum Home Menü führt, in welcher eine grafische Übersicht zu sehen ist   | Soll erscheinen, nachdem auf den Home Button gedrückt wurde | Ausgabe der Home Seite|
-| 8.0 |  Das Programm wird geschlossen und wieder aufgestartet  | Aufstarten des Programmes | Ausgabe der Home Seite mit den abgespeicherten Daten von diesem Tag|
-| 9.0 |  Im Programm sollte es eine Seite mit verschiedenen Statistiken haben.  | Klick auf die Statistik Button| Ausgabe von verschiedenen Statistiken die berechnet worden sind|
-| 10.0 |  Im Programm sollte es einen Dark Mode Modus geben welchen man aktivieren kann  | Klick auf die Dark Mode Button| Änderung der Benutzeroberfläche auf Dunkle Erscheinung.|
-
+| 1.1  |              |         |                   |
+| ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -73,9 +59,9 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 02.03.23     |Janick           | Gewicht, Grösse, Alter eingeben können             |45 min               |
-| 1.B  |02.03.23 | Blentin         |Vorschläge             |45 min               |
-| 2.A  |02.03.23 | Gabriel          |Körperliche Ziele eingeben und Hilfe bekommen.              |45 min               |
+| 1.A  | 02.03.23     |Janick           | Benutzeroberfläche für den Start des Programmes erstellen.            |45 min               |
+| 1.B  |02.03.23 | Blentin         |Vorschläge für den Benutzer umschreiben und einfügen.             |45 min               |
+| 2.A  |02.03.23 | Gabriel          |Eingabemöglichkeit für den Benutrzer --> seine Ziele auswählen.|45 min               |
 | 3.A  |09.03.23 | Blentin, Janick          |Angaben werden im Hintergrund gespeichert für die Berechnung.             |45 min               |
 | 3.B |09.03.23 | Blentin, Janick          |Angaben werden im Hintergrund gespeichert für die Berechnung.             |45 min               |
 | 4.A  |09.03.23 | Gabriel          |Ansicht             |45 min               |
