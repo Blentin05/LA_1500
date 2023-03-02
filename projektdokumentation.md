@@ -35,7 +35,9 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 |11 |Muss |Rand | Als Benutzer möchte ich das Programm mit der Sprache Deutsch verwenden, damit ich sicher alles verstehe.|
 |12 |Muss |Qualität | Als Benutzer möchte ich, dass das Design des Programmes übersichtlich und sauber aussieht, damit ich auch spass daran habe. |
 |13 |Muss |Rand | Als ein Computer, möchte ich das Programm in Visual Studios ausführen, weil viele Visual Studios schon haben und es daher leicht zu testen ist. |
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+|14 |Muss |Qualität | Als Benutzer möchte ich eine klare Anleitung zur Benutzung des Programmes bekommen, damit ich das volle Potential von Programm nutzen kann. |
+|15 |Kann |Qualität | Als ein Benutzer möchte ich, dass das Programm einen coolen Namen hat, damit es auch seriös und sauber rüberkommt. |
+
 
 ### 1.3 Testfälle
 
