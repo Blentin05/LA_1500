@@ -52,7 +52,6 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 | 3.0 |  Im gleichen Formular sollte eine Auswahl des körperlichen Zieles vorhanden sein.        | Speichern | Angaben wurden erfolgreich gespeichert. |
 | 4.0 |  Das Programm sollte auf einer Benutzeroberfläche laufen     | Soll erscheinen, nachdem auf den Speichern Button gedrückt wurde | Schön gestaltete Seite |
 | 5.0 |  Benutzerfreundlich gestaltet Seite startet auf mit dem Kalorienmanager als erst Ansicht        | Soll erscheinen, nachdem auf den Speichern Button gedrückt wurde | Schön gestaltete Seite |
-| 5.0 |  Benutzerfreundlich gestaltet Seite startet auf mit dem Kalorienmanager als erst Ansicht        | Soll erscheinen, nachdem auf den Speichern Button gedrückt wurde | Schön gestaltete Seite |
 | 6.0 |  Ein Button sollte zu einer Seite führen, in welcher man seine Aktivitäten einschreiben kann und die verbrauchten Kalorien     | soll erscheinen, nachdem auf den Aktivität-Button gedrückt wurde | Ausgabe der Seite mit den Aktivitäten|
 | 7.0 |  In jeder externen Seite sollte ein Button sein, welches zum Home Menü führt, in welcher eine grafische Übersicht zu sehen ist   | Soll erscheinen, nachdem auf den Home Button gedrückt wurde | Ausgabe der Home Seite|
 | 8.0 |  Das Programm wird geschlossen und wieder aufgestartet  | Aufstarten des Programmes | Ausgabe der Home Seite mit den abgespeicherten Daten von diesem Tag|
