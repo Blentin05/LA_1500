@@ -34,7 +34,7 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 |10 |Kann |Qualität | Als Benutzer möchte ich das Design der Kalorienmanagers anpassen (z.B. Dark-Mode), damit auch meine Augen etwas zu geniessen haben. |
 |11 |Muss |Rand | Als Benutzer möchte ich das Programm mit der Sprache Deutsch verwenden, damit ich sicher alles verstehe.|
 |12 |Muss |Qualität | Als Benutzer möchte ich, dass das Design des Programmes übersichtlich und sauber aussieht, damit ich auch spass daran habe. |
-|13 |Muss |Rand | Als ein Computer, möchte ich das Programm in Visual Studios ausführen, weil viele Visual Studios schon haben und es daher leicht zu testen ist. |
+|13 |Muss |Rand | Als Benutzer möchte ich, dass ich das Programm auf meinem Computer läuft. |
 |14 |Muss |Qualität | Als Benutzer möchte ich eine klare Anleitung zur Benutzung des Programmes bekommen, damit ich das volle Potential von Programm nutzen kann. |
 |15 |Kann |Qualität | Als ein Benutzer möchte ich, dass das Programm einen coolen Namen hat, damit es auch seriös und sauber rüberkommt. |
 
@@ -51,6 +51,7 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 | 3.0 |  Im gleichen Formular sollte eine Auswahl des körperlichen Zieles vorhanden sein.        | Speichern | Angaben wurden erfolgreich gespeichert. |
 | 3.0 |  Im gleichen Formular sollte eine Auswahl des körperlichen Zieles vorhanden sein.        | Speichern | Angaben wurden erfolgreich gespeichert. |
 | 4.0 |  Das Programm sollte auf einer Benutzeroberfläche laufen     | Soll erscheinen, nachdem auf den Speichern Button gedrückt wurde | Schön gestaltete Seite |
+| 5.0 |  Benutzerfreundlich gestaltet Seite startet auf mit dem Kalorienmanager als erst Ansicht        | Soll erscheinen, nachdem auf den Speichern Button gedrückt wurde | Schön gestaltete Seite |
 | 5.0 |  Benutzerfreundlich gestaltet Seite startet auf mit dem Kalorienmanager als erst Ansicht        | Soll erscheinen, nachdem auf den Speichern Button gedrückt wurde | Schön gestaltete Seite |
 | 6.0 |  Ein Button sollte zu einer Seite führen, in welcher man seine Aktivitäten einschreiben kann und die verbrauchten Kalorien     | soll erscheinen, nachdem auf den Aktivität-Button gedrückt wurde | Ausgabe der Seite mit den Aktivitäten|
 | 7.0 |  In jeder externen Seite sollte ein Button sein, welches zum Home Menü führt, in welcher eine grafische Übersicht zu sehen ist   | Soll erscheinen, nachdem auf den Home Button gedrückt wurde | Ausgabe der Home Seite|
