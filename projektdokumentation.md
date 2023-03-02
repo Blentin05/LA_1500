@@ -59,10 +59,29 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 02.03.23     |Janick           | Gewicht, Grösse, Alter eingeben können             |45 min               |
+| 1.B  |02.03.23 | Blentin         |Vorschläge             |45 min               |
+| 2.A  |02.03.23 | Gabriel          |Körperliche Ziele eingeben und Hilfe bekommen.              |45 min               |
+| 3.A  |09.03.23 | Blentin, Janick          |Angaben werden im Hintergrund gespeichert für die Berechnung.             |45 min               |
+| 3.B |09.03.23 | Blentin, Janick          |Angaben werden im Hintergrund gespeichert für die Berechnung.             |45 min               |
+| 4.A  |09.03.23 | Gabriel          |Ansicht             |45 min               |
+| 5.A  |09.03.23 | Gabriel          |Kalorienmanager auf einer übersichtlichen Benutzerfläche.             |45 min               |
+| 6.A  |09.03.23 | Gabriel          |Neue Aktivitäten können eingetragen werden.           |45 min               |
+| 7.A  |09.03.23 | Blentin, Janick        |Grafik         |45 min               |
+| 8.A  |16.03.23 | Janick          |Daten werden abgespeichert.              |45 min               |
+| 8.B  |16.03.23 | Gabriel         |Nach dem Schliessen bleiben die Daten gespeichert.             |45 min               |
+| 9.A  |16.03.23 | Blentin         |Kalorienverbrauch berechnen          |45 min               |
+| 9.B |16.03.23 | Blentin        |Kalorienverbrauch berechnen            |45 min               |
+| 10.A |16.03.23 | Blentin        |Kalorienverbrauch berechnen            |45 min               |
+| 11.A  |16.03.23 | Janick          |Sprache auf Deutsch übersetzen.             |45 min               |
+| 12.A  |16.03.23 | Gabriel    |Design            |45 min               |
+| 12.B  |16.03.23 | Gabriel          |Design            |45 min               |
+| 13.A  |16.03.23       |Janick           |Programm soll in Visual Studio ausgeführt werden.              |45 min               |
+| 14.A  |23.03.23 | Janick, Blentin        |Anleitung             |45 min               |
+| 14.B  |23.03.23 | Gabriel      |Anleitung             |45 min               |
+| 15.A  |23.03.23 | Gabriel       |Name         |5 min               |
 
-Total: 
+Total: 905 min
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
@@ -76,7 +95,7 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+|   |     |           |               |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
