@@ -8,7 +8,7 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   23.02    | 0.0.1   | Wir haben unser Projekt ausgewählt und User Storys und Diagramme erstellt. |
-|       | ...     |                                                              |
+|   09.03    | 0.0.2    |    Wir haben heute das Grundgerüst des Kalorien-Managers geschrieben.                                                          |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
