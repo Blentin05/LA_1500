@@ -111,6 +111,7 @@ Total: 905 min
 |  1.A |   09.03.23  |    Janick       |       45 min        |        120 min           |
 | 2.A  |   09.03.23    |     Gabriel      |       45 min        |          120 min         |
 | 1.B  |   09.03.23    |     Blentin      |       45 min        |          120 min         |
+
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
