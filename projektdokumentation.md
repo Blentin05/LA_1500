@@ -108,7 +108,7 @@ Total: 905 min
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-|   |     |           |               |                   |
+|  1.A |   09.03.23  |    Janick       |       45 min        |        90 min           |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
