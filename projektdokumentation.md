@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 - Gruppe: Tuberose 
 - Mitglieder: Bischof, Hurschler, Tosuni
@@ -59,7 +59,7 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 | 9.0 |  Im Programm sollte es eine Seite mit verschiedenen Statistiken haben.  | Klick auf die Statistik Button| Ausgabe von verschiedenen Statistiken die berechnet worden sind|
 | 10.0 |  Im Programm sollte es einen Dark Mode Modus geben welchen man aktivieren kann  | Klick auf die Dark Mode Button| Änderung der Benutzeroberfläche auf Dunkle Erscheinung.|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 ![Use case diagram](https://user-images.githubusercontent.com/111046337/222399133-2b511abd-efc5-450d-98de-21618e4e328c.png)
@@ -96,13 +96,11 @@ Unser Projekt ist eine einfach zu bedienen App, welche einem dabei helfen soll, 
 
 Total: 905 min
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
@@ -112,7 +110,6 @@ Total: 905 min
 | 2.A  |   09.03.23    |     Gabriel      |       45 min        |          120 min         |
 | 1.B  |   09.03.23    |     Blentin      |       45 min        |          120 min         |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -123,7 +120,6 @@ Total: 905 min
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
 
@@ -132,8 +128,7 @@ Total: 905 min
 | I    |              |         |                   |                      |
 | ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/Blentin05/LA_1500/blob/main/lernbericht.md
