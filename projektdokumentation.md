@@ -7,9 +7,9 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   23.02    | 0.0.1   | Wir haben unser Projekt ausgewählt und User Storys und Diagramme erstellt. |
-|   09.03    | 0.0.2    |    Wir haben heute das Grundgerüst des Kalorien-Managers geschrieben.                                                          |
-|       | 1.0.0   |                                                              |
+|   09.03.23    | 0.0.1   | Wir haben unser Projekt ausgewählt und User Storys und Diagramme erstellt. |
+|   16.03.23    | 0.0.2    |    Wir haben heute das Grundgerüst des Kalorien-Managers geschrieben.                                                          |
+|23.03.23       | 0.0.3   | Heute haben wir noch programmiert, was uns gefehlt hat und wir haben gemerkt, dass  wir bei weitem nicht unsere geplanten Pakete erfüllen konnten. Wir hatten jedoch ein Projekt, dass fertig wurde.                                                             |
 
 ## 1 Informieren
 
@@ -110,6 +110,12 @@ Total: 905 min
 | 1.B  |   09.03.23    |     Blentin      |       45 min        |          120 min         |
  2.A  |   09.03.23    |     Gabriel      |       45 min        |          120 min         |
 | 3.A  |   09.03.23    |     Blentin, Janick      |       45 min        |          45 min         |
+| 3.B  |   09.03.23    |     Blentin, Janick      |       45 min        |          45 min         |
+| 4.A  |   09.03.23    |     Janick      |       45 min        |          45 min         |
+| 5.A  |   16.03.23    |     Gabriel      |       45 min        |          45 min         |
+| 6.A  |   16.03.23    |     Blentin    |       45 min        |          45 min         |
+| 7.A  |   23.03.23    |     Blentin, Janick      |       45 min        |          45 min         |
+| 8.A  |   23.03.23    |     Gabriel      |       45 min        |          45 min         |
 
 ## 5 Kontrollieren
 
