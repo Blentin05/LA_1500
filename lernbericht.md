@@ -11,7 +11,7 @@ Wir haben gelernt, wie man bei WPF zwischen den Windows mittels eines Buttons we
 ## Beschreibung
 
 
-```csharp 
+```
 private void speichernButton_Click(object sender, RoutedEventArgs e)
         {
             string selectedGoal = ZielBox.SelectedItem.ToString();
@@ -20,8 +20,7 @@ private void speichernButton_Click(object sender, RoutedEventArgs e)
 
             Window1 objWindow1 = new Window1();
             this.Visibility = Visibility.Hidden;
-            objWindow1.Show();  } 
- 
+            objWindow1.Show();  }  
 ```
 In diesem Code wird beschrieben, was passiert, wenn jemand auf einen "Speichern"-Button klickt.
 Zunächst wird der Wert aus einer Dropdown-Liste gesammelt und in einer Variablen gespeichert. 
